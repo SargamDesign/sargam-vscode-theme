@@ -2,8 +2,8 @@
   "name": "sargam",
   "displayName": "sargam",
   "description": "Cracklin' fire. Comfy AF.",
-  "version": "0.0.1",
-  "publisher": "Method Black Studio",
+  "version": "0.1.1",
+  "publisher": "sargam",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -14,7 +14,7 @@
     "theme",
     "sargam",
     "dark",
-    "warm"
+    "comfy"
   ],
   "repository": {
     "type": "git",
@@ -36,9 +36,9 @@
     "@sargamdesign/colors": "^2.1.1"
   },
   "__metadata": {
-    "id": "",
-    "publisherDisplayName": "Method Black Studio",
-    "publisherId": ""
+    "Extensionid": "sargam.sargam",
+    "publisherDisplayName": "sargam",
+    "publisherId": "sargam"
   },
   "publishConfig": {
     "access": "public"

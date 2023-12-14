@@ -1,4 +1,4 @@
-## Sargam's VS Code theme
+## Sargam's VS Code Theme
 Cracklin' fire. Comfy AF.
 
 

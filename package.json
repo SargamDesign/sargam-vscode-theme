@@ -1,0 +1,38 @@
+{
+  "name": "sargam",
+  "displayName": "sargam",
+  "description": "Cracklin' fire. Comfy AF.",
+  "version": "0.0.1",
+  "publisher": "Method Black Studio",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "sargam",
+    "dark",
+    "warm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SargamDesign/sargam-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/SargamDesign/sargam-vscode-theme/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "sargam",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sargam-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@sargamdesign/colors": "^2.1.1"
+  }
+}

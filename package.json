@@ -2,7 +2,8 @@
   "name": "sargam",
   "displayName": "sargam",
   "description": "Cracklin' fire. Comfy AF.",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "icon": "icon.png",
   "publisher": "sargam",
   "engines": {
     "vscode": "^1.85.0"

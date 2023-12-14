@@ -34,5 +34,13 @@
   },
   "devDependencies": {
     "@sargamdesign/colors": "^2.1.1"
+  },
+  "__metadata": {
+    "id": "",
+    "publisherDisplayName": "Method Black Studio",
+    "publisherId": ""
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
